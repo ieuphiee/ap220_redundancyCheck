@@ -4,9 +4,10 @@
 Desired output:
 
 ************************************
-File 1: <f1>
-File 2: <f2>
-Number of identical lines: <n>
+File 1: f1<br>
+File 2: f2<br>
+Number of identical lines: n
 *************************************
-*** <line_num_f1> < line_num_f2> <line_contents>
-*** <line_num_f1> < line_num_f2> <line_contents>
+line_num_f1 line_num_f2 line_contents
+line_num_f1 line_num_f2 line_contents
+
